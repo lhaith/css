@@ -1,0 +1,87 @@
+/* Catch All  */
+
+/* center column in bootstrap */
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+
+
+/* block backgrounds */
+.circle-gradient {
+background: -webkit-radial-gradient(bottom,f4f7ff,#eaf0f9,#b0b5bd);
+background: radial-gradient(at bottom,#f4f7ff,#eaf0f9,#b0b5bd);
+margin-bottom: 20px;
+}
+
+.footer {
+color: white;
+background: -webkit-radial-gradient(top,#747578,#161617);
+background: radial-gradient(at top,#747578,#161617);
+}
+
+
+/* imagery */
+.field-name-field-product-image {
+  margin: 10px;
+  }
+.field-name-field-product-image {
+  margin: 10px;
+  }
+  
+.sharethis-buttons {
+  margin: 30px;
+}
+
+.link-module {
+  padding-top: 10px;
+    padding-bottom: 10px;
+      padding-left: 30px;
+        padding-right: 30px;
+  margin: 30px;
+}
+
+.field-type-link-field {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.block-title {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+
+.view-architecture-grid table.view-grid td {
+vertical-align: top;
+}
+
+.table.view-grid td {
+   vertical-align: top;
+}
+
+.views-field-title {
+   vertical-align: top;
+   padding-top: 10px;
+   padding-bottom: 10px
+}
+
+.row-first {
+   vertical-align: top;
+   text-align: center;
+
+}
+
+.views-field-body {
+   padding-top: 10px;
+   padding-bottom: 10px;
+   }
